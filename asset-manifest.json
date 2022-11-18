@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuizApp/static/css/main.235d7c74.css",
+    "main.js": "/QuizApp/static/js/main.0c5e946e.js",
+    "static/media/KBC-Big-Banner.jpg": "/QuizApp/static/media/KBC-Big-Banner.4b3d19604bce015eb5c4.jpg",
+    "index.html": "/QuizApp/index.html",
+    "main.235d7c74.css.map": "/QuizApp/static/css/main.235d7c74.css.map",
+    "main.0c5e946e.js.map": "/QuizApp/static/js/main.0c5e946e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235d7c74.css",
+    "static/js/main.0c5e946e.js"
+  ]
+}
